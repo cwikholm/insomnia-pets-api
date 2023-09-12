@@ -1,0 +1,21 @@
+_id: req_8963af6cde3c4175be2581d0114a85f4
+type: Request
+parentId: fld_d49724481bc647898b2b03489c4183f2
+modified: 1694199183406
+created: 1694198141701
+url: "{{ _.base_url }}/user/cwikholm"
+name: Delete user
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1694198141701
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_d00bc9c7636d487dbe6628cb538dcdda
+type: Request
+parentId: fld_d49724481bc647898b2b03489c4183f2
+modified: 1694198141699
+created: 1694198141699
+url: "{{ _.base_url }}/user/logout"
+name: Logs out current logged in user session
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1694198141699
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

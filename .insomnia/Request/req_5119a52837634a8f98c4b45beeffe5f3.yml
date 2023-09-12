@@ -1,0 +1,21 @@
+_id: req_5119a52837634a8f98c4b45beeffe5f3
+type: Request
+parentId: fld_d49724481bc647898b2b03489c4183f2
+modified: 1694198790886
+created: 1694198141700
+url: "{{ _.base_url }}/user/cwikholm"
+name: Get user by user name
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1694198141700
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

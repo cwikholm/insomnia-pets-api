@@ -1,0 +1,36 @@
+_id: req_0ba4ad0d83c148c2bebf8919af6618aa
+type: Request
+parentId: fld_d49724481bc647898b2b03489c4183f2
+modified: 1694198996320
+created: 1694198141700
+url: "{{ _.base_url }}/user/cwikholm"
+name: Updated user
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "id": 3000,
+      "username": "connorw",
+      "firstName": "Connor",
+      "lastName": "Wikholm",
+      "email": "connor@example.com",
+      "password": "123",
+      "phone": "9999999999",
+      "userStatus": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    disabled: false
+    value: application/json
+authentication: {}
+metaSortKey: -1694198141700
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
